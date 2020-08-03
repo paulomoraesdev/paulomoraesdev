@@ -5,7 +5,7 @@
 I'm a fullstack web developer, with over 10y of experience, currently working @Revelo!
 Also trying to be a streamer and youtuber! Trying...
 
-[Personal Website: ](https://paulomoraes.dev/)
+[Personal Website](https://paulomoraes.dev/)
 
 ---
 
