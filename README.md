@@ -2,7 +2,7 @@
 
 I'm Paulo César Moraes, a fullstack web developer and ui designer with over than 11y of experience.
 
-- Full Stack Developer @ [Herospark](https://www.herospark.com)'s Marketing Team
+- Full Stack Developer @ [Coachy.net](https://www.coachy.net)
 
 Also trying to be a streamer and youtuber! Trying...
 
