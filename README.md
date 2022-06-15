@@ -1,6 +1,6 @@
 ## Hey! 👋🏻
 
-I'm Paulo César Moraes, a fullstack web developer and ui designer with over than 11y of experience.
+I'm Paulo César Moraes, a fullstack web developer and ui designer with over than 12y of experience.
 
 - Full Stack Developer @ [Coachy.net](https://www.coachy.net)
 
